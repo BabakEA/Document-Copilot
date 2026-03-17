@@ -1,7 +1,7 @@
 # Document-Copilot 
  2024-04-22
 
-
+[Download the PowerPoint and Demo](./Document_Copliot_Babak_EA_2024_04_22.pptx)
 An enterprise knowledge assistant designed to help teams analyze and interact with large volumes of internal documents using LLM-powered retrieval, semantic reasoning, and conversational workflows.
 
 
