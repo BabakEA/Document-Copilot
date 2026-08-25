@@ -92,5 +92,5 @@ Document Copilot delivers unmatched **speed**, **accuracy**, and **AI-powered in
 4. **Research Copilot:** Generates entire research papers from project descriptions using the vector database
 
 ---
-## License
-This Markdown file was generated automatically using Microsoft Copilot.
+
+.
